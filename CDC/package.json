@@ -5,6 +5,7 @@
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
+    "@openfonts/big-shoulders-display_all": "^0.1.1",
     "babel-plugin-styled-components": "^1.10.6",
     "gatsby": "^2.15.22",
     "gatsby-image": "^2.2.21",
@@ -22,7 +23,8 @@
     "react-reveal": "^1.2.2",
     "react-spring": "^8.0.27",
     "smooth-scroll": "^16.1.0",
-    "styled-components": "^4.4.0"
+    "styled-components": "^4.4.0",
+    "typeface-monoton": "0.0.72"
   },
   "devDependencies": {
     "prettier": "^1.18.2"

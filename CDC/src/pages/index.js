@@ -1,8 +1,9 @@
 import React from "react"
+import HoldingPage from '../components/HoldingPage/HoldingPage'
 
 
 const IndexPage = () => (
-  <div>This is the landing page</div>
+  <HoldingPage />
 )
 
 export default IndexPage
